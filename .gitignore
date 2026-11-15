@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+dataset/daphnet/*
+dataset/pose_recordings/*
+!dataset/**/.gitkeep
+models/*.pkl
+outputs/reports/*
